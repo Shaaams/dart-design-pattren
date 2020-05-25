@@ -1,0 +1,4 @@
+class WaightHolderable{
+ 
+  void leftCargo(){}
+}
